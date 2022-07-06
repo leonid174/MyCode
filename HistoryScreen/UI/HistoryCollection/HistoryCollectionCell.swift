@@ -1,6 +1,5 @@
 //
 //  HistoryIndicatorCell.swift
-//  Altos-app
 //
 //  Created by Leonid Vilner on 23.02.2022.
 //
