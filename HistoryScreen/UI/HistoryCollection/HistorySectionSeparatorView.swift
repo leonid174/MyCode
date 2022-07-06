@@ -1,6 +1,5 @@
 //
 //  SupplementaryView.swift
-//  Altos-app
 //
 //  Created by Leonid Vilner on 23.05.2022.
 //
