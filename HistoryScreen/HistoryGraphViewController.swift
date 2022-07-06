@@ -1,6 +1,5 @@
 //
 //  StatisticsGraphViewController.swift
-//  Altos-app
 //
 //  Created by Leonid Vilner on 03.03.2022.
 //
