@@ -1,6 +1,5 @@
 //
 //  StateBannerView.swift
-//  Altos-app
 //
 //  Created by Leonid Vilner on 21.02.2022.
 //
